@@ -41,7 +41,6 @@ This repository contains the data analysis and visualization code for the manusc
 **Installation:**
 
 - Clone the repository to a local computer with Python installed
-- Navigate to the `papers/sf-cordon/` directory
 - Install dependencies: `pip install pandas numpy matplotlib seaborn geopandas`
 - Ensure the repository's directory structure is maintained, as the analysis scripts rely on relative paths
 
