@@ -1,0 +1,4 @@
+Scenario,Car %,Transit %,RideHail %,Active %,Total Trips
+baseline,50.8,27.6,1.8,19.7,"37,585"
+flat,42.0,32.2,2.0,23.8,"34,429"
+income-based,43.6,31.6,1.9,23.0,"35,177"
