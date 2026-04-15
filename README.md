@@ -106,7 +106,7 @@ For access to the complete dataset, please contact the authors.
 
 If you use the data or code from this repository in your research, please cite the following manuscript:
 
-[FULL CITATION TO BE ADDED UPON PUBLICATION]
+Guirado, C., Poliziani, C., Fujita, K.S. et al. Simulating protective cordon pricing to balance congestion management and affordability in San Francisco. npj. Sustain. Mobil. Transp. 3, 27 (2026). https://doi.org/10.1038/s44333-026-00093-5
 
 ************************************************
 
@@ -135,4 +135,4 @@ works, and perform publicly and display publicly, and to permit others to do so.
 
 *Citation*
 
-- CITATION.cff: Guirado, C., Poliziani, C., Fujita, K.S. et al. Simulating protective cordon pricing to balance congestion management and affordability in San Francisco. npj. Sustain. Mobil. Transp. 3, 27 (2026). https://doi.org/10.1038/s44333-026-00093-5
+- CITATION.cff: [TO BE ADDED WHEN AVAILABLE]
