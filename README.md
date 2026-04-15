@@ -4,7 +4,7 @@
 Carlos Guirado, Cristian Poliziani, K. Sydny Fujita, Annika Todd-Blick, Nazanin Rezaei, Zachary A. Needell, Haitam Laarabi, Ling Jin, Xiaodan Xu, Tom Wenzel & C. Anna Spurlock 
 
 **Contact:** 
-Software developer: Carlos Guirado: guirado@berkeley.edu
+Software developer: Carlos Guirado: guirado@berkeley.edu;
 Corresponding Author: C. Anna Spurlock: caspurlock@lbl.gov
 
 ************************************************
