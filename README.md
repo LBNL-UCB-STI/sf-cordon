@@ -1,8 +1,11 @@
 # Simulating Protective Cordon Pricing to Balance Congestion Management and Affordability in San Francisco
 
-**Authors:** [TO BE ADDED UPON PUBLICATION]
+**Authors:** 
+Carlos Guirado, Cristian Poliziani, K. Sydny Fujita, Annika Todd-Blick, Nazanin Rezaei, Zachary A. Needell, Haitam Laarabi, Ling Jin, Xiaodan Xu, Tom Wenzel & C. Anna Spurlock 
 
-**Contact:** [TO BE ADDED UPON PUBLICATION]
+**Contact:** 
+Software developer: Carlos Guirado: guirado@berkeley.edu
+Corresponding Author: C. Anna Spurlock: caspurlock@lbl.gov
 
 ************************************************
 
@@ -132,4 +135,4 @@ works, and perform publicly and display publicly, and to permit others to do so.
 
 *Citation*
 
-- CITATION.cff: [TO BE ADDED ONCE CITATION IS AVAILABLE]
+- CITATION.cff: Guirado, C., Poliziani, C., Fujita, K.S. et al. Simulating protective cordon pricing to balance congestion management and affordability in San Francisco. npj. Sustain. Mobil. Transp. 3, 27 (2026). https://doi.org/10.1038/s44333-026-00093-5
